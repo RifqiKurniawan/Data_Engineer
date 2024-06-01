@@ -1,2 +1,3 @@
-# rifqi-k_portfolio
-Engineer and Analytics Portfolio
+# Rifqik Portfolio
+
+# [Project 1: Sync Data News Into Datawarehouse]
