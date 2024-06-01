@@ -8,3 +8,5 @@ This is a project I did for first project portfolio on GitHub.
 * The data warehouse will be created using Python for data ingestion and stored procedures in Oracle for the ETL process, to be stored in an Oracle database as the data warehouse, with Airflow used as the scheduling tool to run each hour everyday.
 * Capture the entire dataset(data from 2016-2024) from the database to populate the data warehouse initially using Incremental Load.
 * SCD-4 for ensure that maintain historical data when populating and updating data warehouse for hard delete method on source data.
+
+## Overview of The Data Pipeline Process Architecture  
