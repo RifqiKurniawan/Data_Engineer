@@ -10,4 +10,4 @@ This is a project I did for first project portfolio on GitHub.
 * SCD-4 for ensure that maintain historical data when populating and updating data warehouse for hard delete method on source data.
 
 ## Overview of The Data Pipeline Process Architecture  
-![](Images/Architecture ETL Process.JPG)
+![](Images/ArchitectureETLProcess.JPG)
