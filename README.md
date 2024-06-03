@@ -1,4 +1,4 @@
-# [Project 1: Sync News Data Into Datawarehouse]
+# [Project 1: Sync News Data Into Datawarehouse](https://rifqikurniawan.github.io/Synchronize_News_Data_into_the_DataWarehouse/)
 This is a project I did for first project portfolio on GitHub.
 
 * Data was taken from generate realistic data from library 'fakes' in python then imported into the OLTP PostgreSQL database system.
