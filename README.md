@@ -1,5 +1,3 @@
-# Rifqik Portfolio
-
 # [Project 1: Sync News Data Into Datawarehouse]
 This is a project I did for first project portfolio on GitHub.
 
